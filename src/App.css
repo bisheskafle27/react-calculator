@@ -7,11 +7,6 @@
   padding: 0px;
 }
 
-body {
-  background-image: url("./components/stars.gif");
-  background-size: cover;
-}
-
 .calculator {
   border: 2px solid black;
   border-radius: 7px;
